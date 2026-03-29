@@ -1,9 +1,7 @@
 ## 🧠 Task 2: Digital Portfolio – Reflection Notes
 
-For Task 2, I created my digital portfolio by setting up profiles on GitHub, LinkedIn, and Kaggle. These platforms are important for building a professional online presence and showcasing skills.
+For Task 2, I created my digital portfolio by setting up profiles on GitHub, LinkedIn, and Kaggle. These platforms are widely used by students and professionals to build a strong online presence and showcase their skills, projects, and achievements.
 
-GitHub is mainly used for storing and managing projects. I created a profile README to introduce myself and share my interests and goals. LinkedIn is a professional networking platform where I added my educational details and basic profile information. Kaggle is a platform for learning data science and machine learning, which I plan to explore further.
+GitHub is mainly used for storing and managing projects. I created a profile README where I introduced myself, mentioned my academic background, and shared my learning goals. This helped me understand how developers present their work professionally. LinkedIn is a professional networking platform where I added my educational details, course information, and a basic headline. It allows students to connect with professionals, explore opportunities, and stay updated with industry trends. Kaggle is a platform focused on data science and machine learning, and although I am a beginner, I plan to use it in the future to learn new skills and participate in competitions.
 
-Through this task, I understood the importance of maintaining a professional identity online. It helped me realize how these platforms can be useful for internships, networking, and career growth.
-
-In the future, I plan to actively use these platforms by uploading projects, improving my skills, and connecting with professionals. This will help me build a strong digital presence and prepare for career opportunities.
+Through this task, I realized the importance of maintaining a professional digital identity. It showed me how these platforms can support my academic journey and career growth. Over the next four years, I plan to regularly update my profiles, upload projects, improve my technical skills, and connect with professionals in the field of cybersecurity.
