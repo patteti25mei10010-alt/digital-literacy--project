@@ -1,5 +1,5 @@
 ## Student Details
-- **Name:** Patteti akesh
+- **Name:** Patteti Rakesh
 - **Reg No:** 25MEI10010
 - **Branch:** Integrated M.Tech cyber security
 - **Batch:** 2025
