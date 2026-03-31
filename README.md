@@ -28,9 +28,9 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** [Add your GitHub profile link here]
-- **LinkedIn Profile:** [Add your LinkedIn profile link here]
-- **Google Form Link:** [Paste your Google Form link here]
+- **GitHub Profile:** [https://github.com/patteti25mei10010-alt]
+- **Kaggle Profile:** [https://www.kaggle.com/pattetirakesh]
+- **Google Form Link:** [https://forms.gle/a5w4U7dbZNKuBShr8]
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic
